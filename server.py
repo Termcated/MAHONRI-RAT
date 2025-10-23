@@ -26,7 +26,7 @@ $$/      $$/  $$$$$$$/ $$/   $$/  $$$$$$/  $$/   $$/ $$/       $$/         $$/  
                                                                                                          
                                                                                                          
                                                                                                          
-                    %s v1.0 @hash3liZer/@TheFlash2k
+                    %s v1.0 @Termcated
 """
 
 __HELP_OVERALL__ = """usage: python3 sillyray.py command [--help] [--option OPTION]
